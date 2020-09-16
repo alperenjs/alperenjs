@@ -6,12 +6,8 @@
 </p>
 
 
-<p align="center"> <h1 align="center"> Elangovan Sndar </h1> </p>
-<p align="center">
-<a href="https://github.com/elangosundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
-<a href="https://twitter.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
-<a href="https://elangovan.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
-</p>
+<p align="center"> <h1 align="center">  </h1> </p>
+<p align="center"></p>
 
 What is Frontend development?
 
