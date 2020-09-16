@@ -6,9 +6,19 @@
 </p>
 
 
-Hi there, thanks for stopping by, this is **AlperenSözen** from **your_place**.
+What is Frontend development?
 
-I usually build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
+It is the sign of a product, it is the face of a product and it is the representative who smile at customer.
+
+Hi, I am Alperen.
+
+When i learn to speak English in university, I found myself in a new, greater information pool. I learned as long as I search, and I searched as long as I learned.
+
+The sparkle that is laid through 'Photoshop' when I was 8, became an enthusiasm when i met with 'Coding'.
+
+Ladies and gentlemen please welcome me who sometimes fly and run, often design and code his dream, Alperen.
+
+
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 ---
 
