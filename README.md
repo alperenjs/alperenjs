@@ -1,6 +1,6 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/09/17/rSHO2hoi7LVjTDX.jpg)
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
-<div style="background: url('https://i.loli.net/2020/09/17/rSHO2hoi7LVjTDX.jpg')"> 
+<div style="color:blue; font-size:14px;"> 
 
 <h4> selam </h4>
 </div>
