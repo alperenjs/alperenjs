@@ -6,6 +6,13 @@
 </p>
 
 
+<p align="center"> <h1 align="center"> Elangovan Sndar </h1> </p>
+<p align="center">
+<a href="https://github.com/elangosundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://twitter.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+<a href="https://elangovan.in" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="Elangovan Sundar" height="20" width="20" /></a>
+</p>
+
 What is Frontend development?
 
 It is the sign of a product, it is the face of a product and it is the representative who smile at customer.
@@ -18,7 +25,7 @@ The sparkle that is laid through 'Photoshop' when I was 8, became an enthusiasm 
 
 Ladies and gentlemen please welcome me who sometimes fly and run, often design and code his dream, Alperen.
 
-<div style="display:flex; border-top: 1px solid black;"> 
+<div style="display:flex;"> 
 <img height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img height="26" width="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
