@@ -5,10 +5,7 @@ Hi there, thanks for stopping by, this is **Your_Name_Here** from **your_place**
 
 I usually build cool, interesting websites or tools for fun and for learning using Vue.js and Python, welcome to scroll down to explore [my project](add your link here), maybe you will love them. 😁
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning...
-- 📫 You can find me on...
- 
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 ---
 
 <p align="center">
