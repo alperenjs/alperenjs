@@ -8,15 +8,15 @@
 
 What is Frontend development?
 
-It is the sign of a product, it is the face of a product and it is the representative who smile at customer.
+Frontend development is the sign, the face of a product and the representative who smiles at the customer.
 
 Hi, I am Alperen.
+While I was learning English in the university, I found myself in a new, greater information pool. Which led me to search and learn as much as I could.
 
-When i learn to speak English in university, I found myself in a new, greater information pool. I learned as long as I search, and I searched as long as I learned.
-
-The sparkle that is laid through 'Photoshop' when I was 8, became an enthusiasm when i met with 'Coding'.
-
-Ladies and gentlemen please welcome me who sometimes fly and run, often design and code his dream, Alperen.
+And the sparkle that is initiated with 'Photoshop' when I was 8, became my enthusiasm when I found 'Coding'.
+Ladies and gentleman
+I may run and fly sometimes, but often I design and code my dream, 
+Alperen.
 
 
 <p align="center"> <h1 align="center"></h1> </p>
