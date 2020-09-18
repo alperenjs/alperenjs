@@ -14,7 +14,8 @@ Hi, I am Alperen.
 While I was learning English in the university, I found myself in a new, greater information pool. Which led me to search and learn as much as I could.
 
 And the sparkle that is initiated with 'Photoshop' when I was 8, became my enthusiasm when I found 'Coding'.
-Ladies and gentleman
+
+Ladies and gentleman,
 I may run and fly sometimes, but often I design and code my dream, 
 Alperen.
 
