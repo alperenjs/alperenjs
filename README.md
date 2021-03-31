@@ -6,19 +6,13 @@
 </p>
 
 
-What is Frontend development?
+I’m a frontend developer with experience in both developing front-end and understanding of it's relation back-end systems. I worked on considerable amount of freelance works and personal projects where I had the chance to experience new technologies and solving different problems. I joined Dopigo and have been working there lately.
 
-Frontend development is the sign, the face of a product and the representative who smiles at the customer.
-
-Hi, I am Alperen.
-While I was learning English in the university, I found myself in a new, greater information pool. Which led me to search and learn as much as I could.
-
-And the sparkle that is initiated with 'Photoshop' when I was 8, became my enthusiasm when I found 'Coding'.
-
-Ladies and gentleman,
-I may run and fly sometimes, but often I design and code my dream, 
-Alperen.
-
+• Passionate about frontend development.
+• Outstanding individual contributor and a fantastic team player; illustrates the true meaning of teamwork, creates good, long-lasting relationships with others along the way.
+• Strategic thinker/a nonconformist; striving to make the best of each and every situation.
+• Self-starter/Internally motivated who draws energy from unknowns.
+• Capable of working very independently with excellent quality and have a natural desire to constantly develop new skills. 
 
 <p align="center"> <h1 align="center"></h1> </p>
 
