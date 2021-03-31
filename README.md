@@ -6,7 +6,9 @@
 </p>
 
 
-I’m a frontend developer with experience in both developing front-end and understanding of it's relation back-end systems. I worked on considerable amount of freelance works and personal projects where I had the chance to experience new technologies and solving different problems. I joined Dopigo and have been working there lately.
+I’m a frontend developer with experience in both developing front-end and understanding of it's relation back-end systems. 
+</br>
+What you see here are only pieces of passion.
 
 • Passionate about frontend development.
 </br>
