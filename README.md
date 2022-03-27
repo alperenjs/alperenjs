@@ -1,7 +1,7 @@
 <p align="center"> <h1 align="center"> Alperen Sözen </h1> </p>
 <p align="center">
 <a href="https://github.com/alperenkarate" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="alperenkarate" height="20" width="20" /></a>
-<a href="https://instagram.com/coderinsuit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="notionofthemotion" height="20" width="20" /></a>
+<a href="https://instagram.com/alperenszz" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="notionofthemotion" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/alperenkarate/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alperenkarate" height="20" width="20" /></a>
 </p>
 
