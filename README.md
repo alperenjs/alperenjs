@@ -38,6 +38,13 @@ What you see here are only pieces of passion.
                                                                                                                                               <img width="44px"  src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
 </div>
 
+
+<p><img height="150" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenkarate&show_icons=true&locale=en&layout=compact" alt="alperenkarate" /></p>
+
+
+
+<p><img img height="150" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=alperenkarate&" alt="alperenkarate" /></p>
+
 <p align="center">
   <i>Scroll to see repos...</i><br/>
 </p>
