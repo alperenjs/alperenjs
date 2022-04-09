@@ -41,8 +41,8 @@ What you see here are only pieces of passion.
 
 
 <div style="display:flex; align-items:center;">
-<p><img img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=alperenkarate&" alt="alperenkarate" /></p>
-<p><img height="150" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenkarate&show_icons=true&locale=en&layout=compact" alt="alperenkarate" /></p>
+<p><img img height="150" align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=alperenjs&" alt="alperenjs" /></p>
+<p><img height="150" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenjs&show_icons=true&locale=en&layout=compact" alt="alperenjs" /></p>
 </div>
 
 
